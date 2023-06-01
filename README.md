@@ -1,4 +1,13 @@
 <h1 align="center">Hi 👋!  I'm Pearkann🌸✨ </h1>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"  />
+</div>
+
+###
+
 <h3 align="center">  and I'm a data sci student, from BKK.</h3>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=pearkann)
@@ -41,12 +50,6 @@
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21t7vif3i2bu75bmfxva6kmqy" alt="Alt text">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif"  />
 </div>
 
 ###
