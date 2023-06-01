@@ -50,7 +50,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/pearkann/pearkann/output/snake.svg" alt="Snake animation" />
-
-###
