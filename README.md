@@ -1,7 +1,11 @@
 # Hi There, I'm Pearkann🌸✨
-## About Me
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitorbadge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+![Profile View Counter](https://komarev.com/ghpvc/?username=pearkann)
+
+## About Me 
+
+
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pearkann&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
