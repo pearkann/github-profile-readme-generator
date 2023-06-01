@@ -4,12 +4,10 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=pearkann)
 
 ###
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=pearkann&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<img align="right" height="150cm"
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pearkann&layout=compact)(https://github.com/anuraghazra/github-readme-stats)/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pearkann&show_icons=true&locale=en&layout=compact" alt="pearkann" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pearkann&show_icons=true&locale=en" alt="pearkann" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
