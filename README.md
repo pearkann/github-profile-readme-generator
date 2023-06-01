@@ -48,7 +48,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21t7vif3i2bu75bmfxva6kmqy" alt="Alt text">
 </div>
 
